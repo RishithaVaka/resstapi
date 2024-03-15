@@ -1,0 +1,22 @@
+[
+    {
+        "id": 1,
+        "name": "Rishitha",
+        "email": "rishi@gmail.com",
+        "type": "admin"
+    },
+    {
+        "id": 2,
+        "name": "Lucky",
+        "email": "lucky@gmail.com",
+        "status": "guest"
+    },
+    {
+        "id": 3,
+        "name": "Madhuri",
+        "email": "madhu@gmail.com",
+        "status": "admin"
+    }
+]
+
+
